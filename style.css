@@ -28,6 +28,7 @@
 --twitter: #1da1f2;
 --facebook: #3b5998;
 --instagram: #e1306c;
+--discord: #7289da;
 --breakpoint-xs: 32em;
 --breakpoint-s: 48em;
 --breakpoint-m: 64em;
@@ -104,6 +105,10 @@
 
 #contact {
     background-color: var(--green);
+}
+
+#discord {
+    background-color: var(--discord);
 }
 
 #footer {
