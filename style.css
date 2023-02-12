@@ -145,12 +145,7 @@ button {
 }
 
 #footer {
-    background: url(Branding/banner.png) no-repeat center center;
-    background-size: 100%;
-}
-
-#footer p {
-    color: var(--cyan);
+    background-color: var(--purple);
 }
 
 br {
