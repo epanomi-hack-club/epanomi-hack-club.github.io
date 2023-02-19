@@ -148,8 +148,8 @@ button {
     background-color: var(--purple);
 }
 
-br {
-    display: none;
+#legal-documents {
+    background-color: var(--accent);
 }
 
 body {
